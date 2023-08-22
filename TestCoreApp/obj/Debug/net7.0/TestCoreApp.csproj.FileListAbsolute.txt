@@ -1,0 +1,1166 @@
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\appsettings.json
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\TestCoreApp.staticwebassets.runtime.json
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\TestCoreApp.exe
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\TestCoreApp.deps.json
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\TestCoreApp.runtimeconfig.json
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\TestCoreApp.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\TestCoreApp.pdb
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.CSharp.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.JSInterop.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.VisualBasic.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\mscorlib.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\netstandard.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.AppContext.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Buffers.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Collections.Concurrent.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Collections.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Collections.Immutable.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Collections.NonGeneric.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Collections.Specialized.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.ComponentModel.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Configuration.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Console.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Core.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Data.Common.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Data.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.Debug.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.Process.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.Tools.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Drawing.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Drawing.Primitives.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Dynamic.Runtime.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Formats.Asn1.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Formats.Tar.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Globalization.Calendars.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Globalization.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Globalization.Extensions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.IO.Compression.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.IO.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.IO.FileSystem.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.IO.Pipelines.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.IO.Pipes.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Linq.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Linq.Expressions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Linq.Parallel.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Linq.Queryable.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Memory.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Net.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Net.Http.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Net.Http.Json.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Net.HttpListener.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Net.Mail.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Net.NameResolution.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Net.NetworkInformation.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Net.Ping.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Net.Primitives.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Net.Quic.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Net.Requests.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Net.Security.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Net.ServicePoint.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Net.Sockets.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Net.WebClient.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Net.WebProxy.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Net.WebSockets.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Numerics.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Numerics.Vectors.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.ObjectModel.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Reflection.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Reflection.Emit.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Reflection.Extensions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Reflection.Metadata.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Reflection.Primitives.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Resources.Reader.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Resources.ResourceManager.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Resources.Writer.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.Extensions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.Handles.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.InteropServices.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.Loader.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.Numerics.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.Serialization.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Security.AccessControl.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Claims.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Cryptography.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Security.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Principal.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Principal.Windows.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Security.SecureString.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.ServiceModel.Web.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.ServiceProcess.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Text.Encoding.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Text.Encodings.Web.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Text.Json.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Text.RegularExpressions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.Channels.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.Overlapped.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.RateLimiting.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.Tasks.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.Thread.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.ThreadPool.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.Timer.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Transactions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Transactions.Local.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.ValueTuple.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Web.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Web.HttpUtility.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Windows.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Xml.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Xml.Linq.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Xml.Serialization.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Xml.XDocument.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Xml.XmlDocument.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Xml.XPath.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\refs\WindowsBase.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\TestCoreApp.csproj.AssemblyReference.cache
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\TestCoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\TestCoreApp.AssemblyInfoInputs.cache
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\TestCoreApp.AssemblyInfo.cs
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\TestCoreApp.csproj.CoreCompileInputs.cache
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\TestCoreApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\TestCoreApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\TestCoreApp.RazorAssemblyInfo.cache
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\TestCoreApp.RazorAssemblyInfo.cs
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\staticwebassets\msbuild.TestCoreApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\staticwebassets\msbuild.build.TestCoreApp.props
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestCoreApp.props
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestCoreApp.props
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\scopedcss\bundle\TestCoreApp.styles.css
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\scopedcss\projectbundle\TestCoreApp.bundle.scp.css
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\TestCoreApp.csproj.CopyComplete
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\TestCoreApp.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\refint\TestCoreApp.dll
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\TestCoreApp.pdb
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\TestCoreApp.genruntimeconfig.cache
+C:\Users\amrow\Downloads\Compressed\TestCoreApp-master\TestCoreApp\obj\Debug\net7.0\ref\TestCoreApp.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\appsettings.Development.json
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\appsettings.json
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\TestCoreApp.staticwebassets.runtime.json
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\TestCoreApp.exe
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\TestCoreApp.deps.json
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\TestCoreApp.runtimeconfig.json
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\TestCoreApp.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\TestCoreApp.pdb
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.CSharp.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Features.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Http.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.JSInterop.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.VisualBasic.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Win32.Primitives.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\Microsoft.Win32.Registry.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\mscorlib.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\netstandard.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.AppContext.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Buffers.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Collections.Concurrent.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Collections.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Collections.Immutable.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Collections.NonGeneric.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Collections.Specialized.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.ComponentModel.Annotations.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.ComponentModel.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.ComponentModel.Primitives.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Configuration.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Console.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Core.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Data.Common.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Data.DataSetExtensions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Data.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.Contracts.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.Debug.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.EventLog.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.Process.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.StackTrace.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.Tools.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.TraceSource.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Diagnostics.Tracing.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Drawing.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Drawing.Primitives.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Dynamic.Runtime.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Formats.Asn1.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Formats.Tar.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Globalization.Calendars.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Globalization.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Globalization.Extensions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.IO.Compression.Brotli.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.IO.Compression.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.IO.Compression.FileSystem.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.IO.Compression.ZipFile.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.IO.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.IO.FileSystem.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.IO.IsolatedStorage.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.IO.Pipelines.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.IO.Pipes.AccessControl.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.IO.Pipes.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Linq.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Linq.Expressions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Linq.Parallel.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Linq.Queryable.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Memory.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Net.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Net.Http.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Net.Http.Json.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Net.HttpListener.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Net.Mail.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Net.NameResolution.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Net.NetworkInformation.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Net.Ping.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Net.Primitives.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Net.Quic.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Net.Requests.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Net.Security.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Net.ServicePoint.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Net.Sockets.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Net.WebClient.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Net.WebHeaderCollection.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Net.WebProxy.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Net.WebSockets.Client.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Net.WebSockets.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Numerics.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Numerics.Vectors.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.ObjectModel.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Reflection.DispatchProxy.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Reflection.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Reflection.Emit.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Reflection.Extensions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Reflection.Metadata.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Reflection.Primitives.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Reflection.TypeExtensions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Resources.Reader.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Resources.ResourceManager.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Resources.Writer.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.Extensions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.Handles.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.InteropServices.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.Intrinsics.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.Loader.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.Numerics.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.Serialization.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.Serialization.Json.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Security.AccessControl.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Claims.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Cryptography.Cng.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Cryptography.Csp.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Cryptography.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Cryptography.Xml.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Security.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Principal.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Security.Principal.Windows.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Security.SecureString.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.ServiceModel.Web.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.ServiceProcess.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Text.Encoding.CodePages.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Text.Encoding.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Text.Encoding.Extensions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Text.Encodings.Web.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Text.Json.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Text.RegularExpressions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.Channels.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.Overlapped.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.RateLimiting.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.Tasks.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.Thread.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.ThreadPool.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Threading.Timer.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Transactions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Transactions.Local.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.ValueTuple.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Web.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Web.HttpUtility.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Windows.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Xml.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Xml.Linq.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Xml.ReaderWriter.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Xml.Serialization.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Xml.XDocument.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Xml.XmlDocument.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Xml.XmlSerializer.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Xml.XPath.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\System.Xml.XPath.XDocument.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\refs\WindowsBase.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Azure.Core.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Azure.Identity.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Humanizer.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\NuGet.Common.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\System.CodeDom.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\TestCoreApp.csproj.AssemblyReference.cache
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\TestCoreApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\TestCoreApp.AssemblyInfoInputs.cache
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\TestCoreApp.AssemblyInfo.cs
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\TestCoreApp.csproj.CoreCompileInputs.cache
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\TestCoreApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\TestCoreApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\TestCoreApp.RazorAssemblyInfo.cache
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\TestCoreApp.RazorAssemblyInfo.cs
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\staticwebassets\msbuild.TestCoreApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\staticwebassets\msbuild.build.TestCoreApp.props
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestCoreApp.props
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestCoreApp.props
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\staticwebassets.build.json
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\staticwebassets.development.json
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\scopedcss\bundle\TestCoreApp.styles.css
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\scopedcss\projectbundle\TestCoreApp.bundle.scp.css
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\TestCoreApp.csproj.CopyComplete
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\TestCoreApp.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\refint\TestCoreApp.dll
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\TestCoreApp.pdb
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\TestCoreApp.genruntimeconfig.cache
+D:\Ali Sha\Web Development with asp.net core\TestCoreApp\TestCoreApp\obj\Debug\net7.0\ref\TestCoreApp.dll
